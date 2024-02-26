@@ -8,8 +8,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5C0A3DFE-AB0F-427C-8E1C-76B8F89C13D4}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplyCleanArchitecture.Api", "SimplyCleanArchitecture.Api\SimplyCleanArchitecture.Api.csproj", "{97BA8326-EA21-4D9A-A1A3-AD6BE8D0E3CC}"
 EndProject
 Global
@@ -25,9 +23,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{97BA8326-EA21-4D9A-A1A3-AD6BE8D0E3CC} = {5C0A3DFE-AB0F-427C-8E1C-76B8F89C13D4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E58792A2-B988-483D-9A3C-F775D27A8405}
